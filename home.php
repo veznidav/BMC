@@ -166,3 +166,6 @@ if ($i_web_skupina!=NULL) {
 
 </div>
 
+
+zmenaaa
+
